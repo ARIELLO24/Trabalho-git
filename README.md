@@ -2,5 +2,5 @@
 
 esse projeto visa o aprendizado do git e do github e seus conceitos
 
-![image](https://github.com/user-attachments/assets/cf1c51bf-784d-4bd9-8712-36ae056c5503)
+![image](https://github.com/user-attachments/assets/125aa1a5-3c4d-4c51-9090-5ffec975bb62)
 
